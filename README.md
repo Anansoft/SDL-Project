@@ -1,3 +1,3 @@
 # SDL-Project
 
-/*Everything needed for the project will be in this foloder*/
+/*Everything needed for the project will be in this folder*/
