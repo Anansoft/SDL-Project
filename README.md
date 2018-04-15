@@ -1,4 +1,3 @@
 # SDL-Project
 
-/*This folder will contain the finale product of the project
-Everything that is considered completed should be put here*/
+/*Everything needed for the project will be in this foloder*/
